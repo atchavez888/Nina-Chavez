@@ -1,3 +1,3 @@
 # Nina-Chavez
-Storytelling with Data
+**Storytelling with Data**
 https://atchavez888.github.io/Nina-Chavez/
