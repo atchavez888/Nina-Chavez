@@ -4,7 +4,7 @@ Nina-Chavez https://atchavez888.github.io/Nina-Chavez/
 
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
-:red: **About Me** :red:
+**About Me**
 
 I am a second year Arts Management student, and I particularly enjoy development, programming, and community engagement for the performing arts. Before coming to graduate school, though, I was an elementary music teacher in South Texas which is actually where I grew up. I spent four years as a teacher learning about the relationship between data and the public education system while actually having fun reaffirming how amazingly powerful the arts and culture are in a child's life and the community.
 
