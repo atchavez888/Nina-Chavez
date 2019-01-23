@@ -12,7 +12,7 @@ My current internship is with the Greater Pittsburgh Arts Council reviewing surv
 
 **What I Hope to Learn**
 
-I love how data and communicating through the realizations that data can provide, furthers clarity and brings patterns and habitual tendencies into clarity. Data also can be confusing, overwhelming, and a bit hard to filter through whether working with it or being presented. When data and the arts intersect they can enhance experiences and the design and creation of further experiences. Through this class, I hope to become better at visualizing data to communicate with all stakeholders. I want to be able to create high quality data visuals to support my work. Also, I want to be able to more efficiently challenge data presented to me.
+I love how data enhances communication. It can further clarify, reveal outliers or unepected results, and bring patterns to the surface. Data also can be confusing, overwhelming, and a bit hard to filter through whether working with it or being presented with overly manipulated conclusions. When data and the arts intersect they can enhance experiences and the design and creation of further experiences. Through this class, I hope to become better at visualizing data to communicate with all stakeholders. I want to be able to create high quality data visuals to support my work. Also, I want to be able to more efficiently challenge data presented to me.
 
 **Portfolio**
 
