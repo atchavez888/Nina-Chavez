@@ -8,7 +8,7 @@ This is my public portfolio for the Telling Stories with Data class at CMU!
 
 I am a second year Arts Management student. I particularly enjoy bringing a community together through the performing arts. Before coming to graduate school, though, I was an elementary music teacher in South Texas which is actually where I grew up. I spent four years as a teacher learning about the relationship between data and the public education system while actually having fun reaffirming how amazingly powerful the arts and culture are in a child's life and their community. The combination helped me realize that furthering my education in arts management would further my passion for serving and building communities.
 
-My current internship is with the Greater Pittsburgh Arts Council. 
+My current internship is with the Greater Pittsburgh Arts Council reviewing survey data and building presentations and reports for internal and external use. 
 
 **What I Hope to Learn**
 
