@@ -1,6 +1,6 @@
-Nina-Chavez https://atchavez888.github.io/Nina-Chavez/
+Nina-Chavez 
 
-:bar_chart::chart_with_upwards_trend: **Telling Stories with Data** :chart_with_upwards_trend::bar_chart:
+**Telling Stories with Data**
 
 This is my public portfolio for the Telling Stories with Data class at CMU!
 
