@@ -1,5 +1,3 @@
-Nina-Chavez https://atchavez888.github.io/Nina-Chavez/
-
 **Telling Stories with Data**
 
 This is my public portfolio for the Telling Stories with Data class at CMU!
