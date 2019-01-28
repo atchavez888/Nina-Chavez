@@ -15,4 +15,5 @@ My current internship is with the Greater Pittsburgh Arts Council reviewing surv
 I love how data enhances communication. It can further clarify, reveal outliers or unepected results, and bring patterns to the surface. Data also can be confusing, overwhelming, and a bit hard to filter through whether working with it or being presented with overly manipulated conclusions. When data and the arts intersect they can enhance experiences and the design and creation of further experiences. Through this class, I hope to become better at visualizing data to communicate with all stakeholders. I want to be able to create high quality data visuals to support my work. Also, I want to be able to more efficiently challenge data presented to me.
 
 **Portfolio**
-
+1. Government Debt Comparison
+  <iframe src="https://data.oecd.org/chart/5smJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5smJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
