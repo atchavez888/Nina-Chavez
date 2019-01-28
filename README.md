@@ -1,4 +1,4 @@
-Nina-Chavez 
+Nina-Chavez https://atchavez888.github.io/Nina-Chavez/
 
 **Telling Stories with Data**
 
