@@ -38,6 +38,6 @@ The **stream graph** became a clearer means to tell a larger story and bring the
 Here is a compilation of feedback from peers:
 - Can you tell me what you think this is? "This looks a lot more like a comparison of data."
 - Can you describe to me what this is telling you? "Your new 
-
+![](IMG_7956.jpg)
 
 Education and dance are two fo my passions, so to be able to work with data related to collegiate dance education ...  The focus of my initial intentions is to improve 
