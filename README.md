@@ -33,4 +33,11 @@ The **stream graph** became a clearer means to tell a larger story and bring the
 
 **Assignment 3 & 4: Critique by Design**
 <iframe width="720px" height="480px" src="https://embed.datausa.io/profile/cip/500302/institutions/tuition_costs?viz=True" frameborder="0" ></iframe>
-Education and dance are two fo my passions, so to be able to 
+
+- Step 4: Test the Solution - 
+Here is a compilation of feedback from peers:
+- Can you tell me what you think this is? "This looks a lot more like a comparison of data."
+- Can you describe to me what this is telling you? "Your new 
+
+
+Education and dance are two fo my passions, so to be able to work with data related to collegiate dance education ...  The focus of my initial intentions is to improve 
