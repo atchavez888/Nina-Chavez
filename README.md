@@ -32,12 +32,19 @@ The **stream graph** became a clearer means to tell a larger story and bring the
 
 
 **Assignment 3 & 4: Critique by Design**
+_Step 4: Test the Solution_
+![](IMG_7956.jpg)
+![](IMG_7957.jpg)
+Here is a compilation of feedback from peers:
+- Can you tell me what you think this is? "This looks a lot more like a comparison of data, and it's easier to read."
+- Can you describe to me what this is telling you? "The original is a bit hard to make connections between the data because I can't see it all together, but your new design is letting me see all four years of tuition data."
+- Is there anything you find surprising or confusing? "Showcasing the In-State and Out-of-State data on a single graph is going to be confusing and hard to read. Don't clutter it too much. Try two side by side graphs one for each type of tuition."
+- Is there anything you would change or do differently. "With two graphs it should be very easy to see all four years of data as it relates to the two separate types of tuition."
+
+The advice about keeping the tuition's separate is helpful because I don't know how to code or create a graph you can click through to highlight colors or types of data like the original DataUSA. Also, it simply reminds me not to clutter everything and simply allow side-by-side data to tell its story cleanly and without the bells and whistles that would make it more engaging. I want to focus on informative improvements then and do what I can with the aesthetics. 
+
+_Step 5: Build Your Solution_ 
 <iframe width="720px" height="480px" src="https://embed.datausa.io/profile/cip/500302/institutions/tuition_costs?viz=True" frameborder="0" ></iframe>
 
-- Step 4: Test the Solution - 
-Here is a compilation of feedback from peers:
-- Can you tell me what you think this is? "This looks a lot more like a comparison of data."
-- Can you describe to me what this is telling you? "Your new 
-![](IMG_7956.jpg)
-
-Education and dance are two fo my passions, so to be able to work with data related to collegiate dance education ...  The focus of my initial intentions is to improve 
+Education and dance are two fo my passions, so to be able to work with data related to college tuition for a dance undergraduate degree was helpful from a personal standpoint. I found this data worth pursuing on a skills perspective because a major interest is how the tuitions fluctuate over the years and compare to each other yet the viewer can only see one year and one tuition at a time. That limits the way you can view the story being told. Furthermore, it only shows the top five or so when there are actually a handful more tuition rates available to view and compare though they have fewer than four years of data. I saw these as opportunities to redesign the visualization to offer solutions to those informative issues. The aesthetic feels like it will be a
+Education and dance are two fo my passions, so to be able to work with data related to college tuition for a dance undergraduate degree was helpful from a personal standpoint. I found this data worth pursuing on a skills perspective because a major interest is how the tuitions fluctuate over the years and compare to each other yet the viewer can only see one year and one tuition at a time. That limits the way you can view the story being told. Furthermore, it only shows the top five or so when there are actually a handful more tuition rates available to view and compare though they have fewer than four years. The emotive components seem a bit more difficult due to my skill level at this time and lack of coding abilities. Nevertheless, my design will address usefulness, completeness, intuitiveness, perceptibility, and to some extent aesthetic. The data itself is truthful and clearly stated in the original. The issue is allowing more of the data to interact with each other. 
