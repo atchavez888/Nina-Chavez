@@ -34,18 +34,18 @@ The **stream graph** became a clearer means to tell a larger story and bring the
 **Assignment 3 & 4: Critique by Design**
 _Step 4: Test the Solution_
 ![]()
-![]()
 Here is a compilation of feedback from peers:
-- Can you tell me what you think this is? 
-- Can you describe to me what this is telling you? 
-- Is there anything you find surprising or confusing? 
-- Who do you think is the intended audience for this? 
-- Is there anything you would change or do differently?
+- Can you tell me what you think this is? "Looks like trends over four years for four states and the country. It's a bit simple, but I am curious about it."
+- Can you describe to me what this is telling you? "It is showing me that certain states are doing well - even >$20,000 above the median while others are <$20,000 or even further below such as the territory of Puerto Rico. That makes me wonder what's been going on to improve the median household income for those states below the country median."
+- Is there anything you find surprising or confusing? "It's really surprising how I have a limited reaction to the data in the original format, but a stronger responses when I can see that the struggles Puerto Rico and Mississippi have with raising the median income didn't change over the four years enough to bring them closer to the national median. I would like to see more data."
+- Who do you think is the intended audience for this? "This could be for politicians, voters, and anyone living in these states. Do you have more data for the other states and territories?"
+- Is there anything you would change or do differently? "If you could add the other states, that'd be great. Also, stay away from certain color combinations. You had an idea for just a "stop" and "go" color combination of green and red and that immediately looked like Christmas. I like that the United States line is different from the actual specific states and is a neutral color."
 
-The advice about 
+The advice about color combinations was helpful because I was getting caught up trying to make a bigger impression with the data I used. The opportunity to have those simple reminders allowed me to see it and improve something that would have made an already simple visualization become muddied.
 
 _Step 5: Build Your Solution_ 
 **This chart demonstrates the median household income trends from 2013-2016 in the United States between the two highest and lowest states.**
 <iframe width="720px" height="480px" src="https://embed.datausa.io/profile/geo/united-states/economy/income?viz=True" frameborder="0" ></iframe>
+[Original data from DataUSA](https://datausa.io/profile/geo/united-states/#income)
 
 ![](Median Household Income.png)
