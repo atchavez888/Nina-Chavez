@@ -47,3 +47,6 @@ The advice about
 _Step 5: Build Your Solution_ 
 **This chart demonstrates the median household income trends from 2013-2016 in the United States between the two highest and lowest states.**
 <iframe width="720px" height="480px" src="https://embed.datausa.io/profile/geo/united-states/economy/income?viz=True" frameborder="0" ></iframe>
+
+
+![](Median Household Income.png)
