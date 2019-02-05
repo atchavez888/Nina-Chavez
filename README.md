@@ -45,4 +45,5 @@ Here is a compilation of feedback from peers:
 The advice about 
 
 _Step 5: Build Your Solution_ 
-<iframe width="720px" height="480px" src="https://embed.datausa.io/profile/geo/los-angeles-county-ca/economy/income?viz=True" frameborder="0" ></iframe>
+<iframe width="720px" height="480px" src="https://embed.datausa.io/profile/geo/united-states/economy/income?viz=True" frameborder="0" ></iframe>
+
