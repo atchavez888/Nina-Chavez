@@ -34,6 +34,7 @@ The **stream graph** became a clearer means to tell a larger story and bring the
 **Assignment 3 & 4: Critique by Design**
 _Step 4: Test the Solution_
 ![](IMG_7967.jpg)
+
 **Compilation of Peer Feedback:**
 - Can you tell me what you think this is? "Looks like trends over four years for four states and the country. It's a bit simple, but I am curious about it."
 - Can you describe to me what this is telling you? "It is showing me that certain states are doing well - even >$20,000 above the median while others are <$20,000 or even further below such as the territory of Puerto Rico. That makes me wonder what's been going on to improve the median household income for those states below the country median."
