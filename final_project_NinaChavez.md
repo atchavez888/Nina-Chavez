@@ -5,6 +5,7 @@ This project will explore the gender desparities in education currently ongoing 
 Story arc explanation:
 
 **BACKGROUND**
+
 According to the [2018 United Nations The Sustainable Development Goals Report](https://unstats.un.org/sdgs/report/2018)
 >More than half of children and adolescents worldwide are not meeting minimum proficiency standards in reading and mathematics. Refocused efforts are needed to improve the quality of education. Disparities in education along the lines of gender, urban-rural location and other dimensions still run deep, and more investments in education infrastructure are required, particularly in LDCs.
 
@@ -12,6 +13,7 @@ According to the [2018 United Nations The Sustainable Development Goals Report](
 >In September 2015, at the United Nations Sustainable Development Summit in New York, Member States formally adopted the 2030 Agenda for Sustainable Development. The agenda contains 17 goals, one of which, SDG 4, is to ‘ensure inclusive and equitable quality education and promote lifelong learning opportunities for all’. SDG 4 has seven targets and three means of implementation. Target 4.5 focuses on equity and calls upon Member States to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’.
 
 **THE DATA**
+
 The [World Inequality Databse on Education (WIDE)](https://www.education-inequalities.org/about) is the data being utilized in this project. It can be accessed via the link above and clicking on the link labeled "Download Data in CSV Format."
 
 According to the [World Inequality Databse on Education (WIDE)](https://www.education-inequalities.org/about):
