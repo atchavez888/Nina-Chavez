@@ -2,11 +2,9 @@
 
 **SUMMARY**
 
->To change the status quo for children, we need leadership
+>_To change the status quo for children, we need leadership_
 
-Children across the globe are being handed a world that ... This project will explore desparities in education currently ongoing across the world to advocate for funding on behalf of [Teach for All](https://teachforall.org/ in order to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate.
-
-**STAKEHOLDERS**
+Children across the globe are being handed a world that ... This project will explore ongoing desparities in education across the world to advocate for funding on behalf of [Teach for All](https://teachforall.org/ in order to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate. **Stakeholders** being presented this information will fall into institutional giving at the national and regional level across the world and high-stake individuals with invested interest in supporting education equity across the world.
 
 
 **BACKGROUND**
