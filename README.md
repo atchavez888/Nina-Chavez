@@ -57,4 +57,4 @@ The wireframe was relatively easy to design because I knew what part of the data
 
 ![](Median Household Income in the United States.png)
 
-[](final_project_YourName.md)
+[Final Project](final_project_NinaChavez.md)
