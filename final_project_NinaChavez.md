@@ -1,7 +1,7 @@
 # Final Project, Part 1
 
 This project will explore the gender desparities in education currently ongoing across the world in order to continue the campaign to advocate for 
->According to the [2018 United Nations The Sustainable Development Goals Report] (https://unstats.un.org/sdgs/files/report/2018/TheSustainableDevelopmentGoalsReport2018-EN.pdf),"...more than half of children and adolescents worldwide are not meeting minimum proficiency standards in reading and mathematics. Refocused efforts are needed to improve the quality of education. Disparities in education along the lines of gender, urban-rural location and other dimensions still run deep, and more investments in education infrastructure are required, particularly in LDCs.
+>According to the [2018 United Nations The Sustainable Development Goals Report] (https://unstats.un.org/sdgs/report/2018),"...more than half of children and adolescents worldwide are not meeting minimum proficiency standards in reading and mathematics. Refocused efforts are needed to improve the quality of education. Disparities in education along the lines of gender, urban-rural location and other dimensions still run deep, and more investments in education infrastructure are required, particularly in LDCs.
 
 Story arc explanation:
 
