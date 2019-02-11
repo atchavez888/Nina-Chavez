@@ -20,6 +20,9 @@ According to the [World Inequality Databse on Education (WIDE)](https://www.educ
 >The database was first created as the Deprivation and Marginalization in Education (DME) dataset for the 2010 EFA Global Monitoring Report and re-launched as WIDE with interactive online features in 2012. In November 2018, the Global Education Monitoring Report and the UNESCO Institute for Statistics established a partnership to jointly maintain and develop WIDE to support the monitoring of **Sustainable Development Goal (SDG) 4** and in >particular **target 4.5** on equity.
 
 **METHOD AND MEDIUM**
+
 Drafting: 
+
 Wireframe:
+
 Final Presentation:
