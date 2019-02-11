@@ -1,14 +1,11 @@
 # Final Project, Part 1: Project Overview
 
+**SUMMARY*
+
 This project will explore the gender desparities in education currently ongoing across the world in order to continue the campaign to advocate to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate for funding on behalf of the education nonprofit [Teach for All](https://teachforall.org/).
 
-**STORY ARC**
+**STAKEHOLDERS**
 
-Setup
-
-Conflict
-
-Resolution
 
 **BACKGROUND**
 
@@ -17,6 +14,14 @@ According to the [2018 United Nations The Sustainable Development Goals Report](
 
 [**Sustainable Development Goal 4 (SDG 4), Target 4.5**](https://sustainabledevelopment.un.org/sdg4)
 >In September 2015, at the United Nations Sustainable Development Summit in New York, Member States formally adopted the 2030 Agenda for Sustainable Development. The agenda contains 17 goals, one of which, SDG 4, is to ‘ensure inclusive and equitable quality education and promote lifelong learning opportunities for all’. SDG 4 has seven targets and three means of implementation. Target 4.5 focuses on equity and calls upon Member States to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’.
+
+**STORY ARC**
+
+Setup
+
+Conflict
+
+Resolution
 
 **THE DATA**
 
