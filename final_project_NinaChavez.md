@@ -4,6 +4,7 @@ This project will explore the gender desparities currently present across the wo
 
 Story arc explanation:
 
+**THE DATA**
 The [World Inequality Databse on Education](https://www.education-inequalities.org/about) is the data being utilized in this project. It can be accessed via the link above and clicking on the link labeled "Download Data in CSV Format." According to the site:
 >About WIDE
 The World Inequality Database on Education (WIDE) brings together data from Demographic and Health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), other national household surveys and learning assessments from over 160 countries. Users can compare education outcomes between countries, and between groups within countries, according to factors that are associated with inequality, including wealth, gender, and ethnicity and location. Users can also create maps, charts, infographics and tables from the data, and download, print or share them online.
