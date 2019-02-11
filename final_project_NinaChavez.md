@@ -1,13 +1,14 @@
 # Final Project, Part 1: Project Overview
 
-This project will explore the gender desparities in education currently ongoing across the world in order to continue the campaign to advocate for 
+This project will explore the gender desparities in education currently ongoing across the world in order to continue the campaign to advocate to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’. 
+
 
 According to the [2018 United Nations The Sustainable Development Goals Report](https://unstats.un.org/sdgs/report/2018)
 >More than half of children and adolescents worldwide are not meeting minimum proficiency standards in reading and mathematics. Refocused efforts are needed to improve the quality of education. Disparities in education along the lines of gender, urban-rural location and other dimensions still run deep, and more investments in education infrastructure are required, particularly in LDCs.
 
 Story arc explanation:
 
-**THE DATA**
+**BACKGROUND**
 
 The [World Inequality Databse on Education (WIDE)](https://www.education-inequalities.org/about) is the data being utilized in this project. It can be accessed via the link above and clicking on the link labeled "Download Data in CSV Format." According to the site:
 >About WIDE
