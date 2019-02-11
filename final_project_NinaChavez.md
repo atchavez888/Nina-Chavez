@@ -4,6 +4,12 @@ This project will explore the gender desparities in education currently ongoing 
 
 Story arc explanation:
 
+Setup
+
+Conflict
+
+Resolution
+
 **BACKGROUND**
 
 According to the [2018 United Nations The Sustainable Development Goals Report](https://unstats.un.org/sdgs/report/2018)
