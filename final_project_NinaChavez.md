@@ -1,4 +1,4 @@
-#Final Project, Part 1
+# Final Project, Part 1
 
 This project will explore the gender desparities currently present across the world in education. 
 
