@@ -15,15 +15,15 @@ According to the [2018 United Nations The Sustainable Development Goals Report](
 [**Sustainable Development Goal 4 (SDG 4), Target 4.5**](https://sustainabledevelopment.un.org/sdg4)
 >In September 2015, at the United Nations Sustainable Development Summit in New York, Member States formally adopted the [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld). The agenda contains 17 goals, one of which, SDG 4, is to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. SDG 4 has seven targets and three means of implementation. Target 4.5 focuses on equity and calls upon Member States to eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations.
 
-![](UNEducation.png)
+![UN Education, SDG 4](UNEducation.png)
 
 **STORY ARC**
 
-1. Setup: Review the latest annual report and status of the current 46 partner chapters
+1. Setup: This is a lead document for a board meeting centered around discussing the status of the organization and the mission's progress. We will review the latest annual report and status of the current 46 partner "chapters" of Teach for All to reflect on where the organization is before discussing the possibile directions to move forward in for the next five or ten years.
 
-Conflict
+2. Conflict: The current financial and human assets of Teach for All need to be compared with the ambitions of the organization and board strategy must be discussed.
 
-Resolution
+3. Resolution: The class will in essence play the role of the board and have an opportunity within the time allotted for my final presentation slot to share their ideas for which next steps they would like to see such as selecting a few countries and reasoning it out together.
 
 **THE DATA**
 
