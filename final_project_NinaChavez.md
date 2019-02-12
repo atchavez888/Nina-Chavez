@@ -34,6 +34,8 @@ The [World Inequality Databse on Education (WIDE)](https://www.education-inequal
 
 Other data sources will include financial statements from [2014-2016](https://teachforall.org/financials), [2017 990](https://www.guidestar.org/profile/26-2122566),  [indivdual country reports](https://teachforall.org/about#27101) from the 46 countries, and the [SDG 4 Data Book: International Education Indicators 2018](http://uis.unesco.org/en/topic/sustainable-development-goal-4). Extrapolating the range of needs and variables concerning each country from the UNESCO data will help make data-supported strategic choices while also comparing the data within the Teach for All financial reports will provide practical support to understand the costs of opening a new "chapter" and to begin to understand how many over a series of time would be plausible and sustainable.
 
+![SDG 4 Data Book](SDG4DataBook.PNG)
+
 **METHOD AND MEDIUM**
 
 **Drafting:** This is my favorite part, so I will be doing a moodboard and sketching a variety of possible data visualizations. Visuals can be created for each country, each region, each continent, and the world. An animated visual showing the growth history of Teach for All could be helpful in the introduction. 
