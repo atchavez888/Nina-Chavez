@@ -1,11 +1,10 @@
 # Final Project, Part 1: Project Overview
 
-**SUMMARY**
+**OBJECTIVE**
 
->_To change the status quo for children, we need leadership_
+Informed strategic planning is key to success for any organization especially a mission-driven nonprofit such as Teach for All, a nonprofit focused on developing "...a global network of independent organizations united by the core purpose of developing collective leadership to ensure all children have the opportunity to fulfill their potential." 
 
-Children across the globe are being handed a world that ... This project will explore ongoing desparities in education across the world to advocate for funding on behalf of [Teach for All](https://teachforall.org/ in order to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate. **Stakeholders** being presented this information will fall into institutional giving at the national and regional level across the world and high-stake individuals with invested interest in supporting education equity across the world.
-
+This project will explore ongoing desparities in education across the world to advocate for the mission of [Teach for All](https://teachforall.org/ in order to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate. This document will be an internal **Stakeholders** document presented to the executive administration of Teach for All such as [Wendy Koff](https://teachforall.org/wendy-kopp) and the board of directors as the next 5 or 10 year strategic plan is being developed.  The goal is to provide supportive, concrete logic between the finacial and human assets of Teach for All and where the most need and sustainability is currently possible to expand the organization.
 
 **BACKGROUND**
 
