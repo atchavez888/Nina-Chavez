@@ -1,10 +1,11 @@
 # Final Project, Part 1: Project Overview
 
 **OBJECTIVE**
+>"... 2040, where communities in every part of the world are enabling all of their children to have the education, support, and opportunity to shape a better future for themselves and all of us. These communities are inspiring and informing a worldwide movement to achieve this everywhere."
 
-Informed strategic planning is key to success for any organization especially a mission-driven nonprofit such as Teach for All, a nonprofit focused on developing "...a global network of independent organizations united by the core purpose of developing collective leadership to ensure all children have the opportunity to fulfill their potential." 
+Informed strategic planning is key to success for any organization especially a mission-driven nonprofit such as Teach for All, a nonprofit focused on developing "...a global network of independent organizations united by the core purpose of developing collective leadership to ensure all children have the opportunity to fulfill their potential." With an ambitious [25 year vision](https://teachforall.org/10-year-report) driving the organization's work, it is therefore logical to maintain trajectory while adapting as needed to the global education environment. 
 
-This project will explore ongoing desparities in education across the world to advocate for the mission of [Teach for All](https://teachforall.org/ in order to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate. This document will be an internal **Stakeholders** document presented to the executive administration of Teach for All such as [Wendy Koff](https://teachforall.org/wendy-kopp) and the board of directors as the next 5 or 10 year strategic plan is being developed.  The goal is to provide supportive, concrete logic between the finacial and human assets of Teach for All and where the most need and sustainability is currently possible to expand the organization.
+This project will explore ongoing desparities in education across the world to advocate for the mission of [Teach for All](https://teachforall.org/ in order to ‘eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations’ to advocate. This document will be an internal **Stakeholders** document presented to the executive administration of Teach for All such as [Wendy Koff](https://teachforall.org/wendy-kopp) and the international board of directors as the next 5 or 10 year strategic plan is being developed.  The goal is to provide supportive, concrete logic between the finacial and human assets of Teach for All and where the most need and sustainability is currently possible to expand the organization.
 
 **BACKGROUND**
 
@@ -18,7 +19,7 @@ According to the [2018 United Nations The Sustainable Development Goals Report](
 
 **STORY ARC**
 
-Setup
+1. Setup: Review the latest annual report and status of the current 46 partner chapters
 
 Conflict
 
@@ -30,6 +31,8 @@ The [World Inequality Databse on Education (WIDE)](https://www.education-inequal
 >The World Inequality Database on Education (WIDE) brings together data from Demographic and Health Surveys (DHS), Multiple Indicator Cluster Surveys (MICS), other national household surveys and learning assessments from over 160 countries. Users can compare education outcomes between countries, and between groups within countries, according to factors that are associated with inequality, including wealth, gender, and ethnicity and location. Users can also create maps, charts, infographics and tables from the data, and download, print or share them online.
 
 >The database was first created as the Deprivation and Marginalization in Education (DME) dataset for the 2010 EFA Global Monitoring Report and re-launched as WIDE with interactive online features in 2012. In November 2018, the Global Education Monitoring Report and the UNESCO Institute for Statistics established a partnership to jointly maintain and develop WIDE to support the monitoring of **Sustainable Development Goal (SDG) 4** and in >particular **target 4.5** on equity.
+
+Other data sources will be 
 
 **METHOD AND MEDIUM**
 
