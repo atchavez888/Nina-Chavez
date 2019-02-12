@@ -32,12 +32,12 @@ The [World Inequality Databse on Education (WIDE)](https://www.education-inequal
 
 >The database was first created as the Deprivation and Marginalization in Education (DME) dataset for the 2010 EFA Global Monitoring Report and re-launched as WIDE with interactive online features in 2012. In November 2018, the Global Education Monitoring Report and the UNESCO Institute for Statistics established a partnership to jointly maintain and develop WIDE to support the monitoring of **Sustainable Development Goal (SDG) 4** and in >particular **target 4.5** on equity.
 
-Other data sources will be 
+Other data sources will include financial statements from [2014-2016](https://teachforall.org/financials), [2017 990](https://www.guidestar.org/profile/26-2122566), and [indivdual country reports](https://teachforall.org/about#27101) from the 46 countries. Extrapolating the range of needs and variables concerning each country from the UNESCO data will help make data-supported strategic choices while also comparing the data within the Teach for All financial reports will provide practical support to understand the costs of opening a new "chapter" and to begin to understand how many over a series of time would be plausible and sustainable.
 
 **METHOD AND MEDIUM**
 
-Drafting: 
+**Drafting:** This is my favorite part, so I will be doing a moodboard and sketching a variety of possible data visualizations. Visuals can be created for each country, each region, each continent, and the world. An animated visual showing the growth history of Teach for All could be helpful in the introduction. 
 
-Wireframe:
+**Wireframe:** I will explore designs via Tableau, share my visuals with peers in the class as well as my former Teach for America peers to seek feedback, and write personal reflections on the visuals. This will probably be a large investment of time.
 
-Final Presentation:
+**Final Presentation:** The intitial plan is to use Infogram or Shorthand for the final presentation.
