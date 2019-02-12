@@ -38,6 +38,6 @@ Other data sources will include financial statements from [2014-2016](https://te
 
 **Drafting:** This is my favorite part, so I will be doing a moodboard and sketching a variety of possible data visualizations. Visuals can be created for each country, each region, each continent, and the world. An animated visual showing the growth history of Teach for All could be helpful in the introduction. 
 
-**Wireframe:** I will explore designs via Tableau, share my visuals with peers in the class as well as my former Teach for America peers to seek feedback, and write personal reflections on the visuals. This will probably be a large investment of time.
+**Wireframe:** I will explore designs via Tableau, Rawgraph, and Infogram; share my visuals with peers in the class as well as my former Teach for America peers to seek feedback; and write personal reflections on the visuals. This will probably be a large investment of time.
 
 **Final Presentation:** The intitial plan is to use Infogram or Shorthand for the final presentation.
