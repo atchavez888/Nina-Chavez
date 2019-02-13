@@ -19,11 +19,11 @@ According to the [2018 United Nations The Sustainable Development Goals Report](
 
 **STORY ARC**
 
-1. Setup: This is a lead document for a board meeting centered around discussing the status of the organization and the mission's progress. We will review the latest annual report and status of the current 46 partner "chapters" of Teach for All to reflect on where the organization is before discussing the possibile directions to move forward in for the next five or ten years.
+1. **Setup:** This is a lead document for a board meeting centered around discussing the status of the organization and the mission's progress. We will review the latest annual report and status of the current 46 partner "chapters" of Teach for All to reflect on where the organization is before discussing the possibile directions to move forward in for the next five or ten years.
 
-2. Conflict: The current financial and human assets of Teach for All need to be compared with the ambitions of the organization and board strategy must be discussed.
+2. **Conflict:** The current financial and human assets of Teach for All need to be compared with the ambitions of the organization and board strategy must be discussed.
 
-3. Resolution: The class will in essence play the role of the board and have an opportunity within the time allotted for my final presentation slot to share their ideas for which next steps they would like to see such as selecting a few countries and reasoning it out together.
+3. **Resolution:** The class will in essence play the role of the board and have an opportunity within the time allotted for my final presentation slot to share their ideas for which next steps they would like to see such as selecting a few countries and reasoning it out together.
 
 **THE DATA**
 
