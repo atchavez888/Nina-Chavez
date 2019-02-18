@@ -17,10 +17,13 @@
 >To select individuals to interview and review the progress of my sketches and wirefream, I wanted to have a pool of candidates connected in one or another to education or public policy as well as individuals not directly working or studying those subjects. I selected two current educators, a former educator now working in marketing and development for a national charter school, peers in the graduate school PPM and MAM programs and an undergraduate at Pitt studying cyber security.
 
 **3. Interview Script**
-[](final_project_interviewscript.)
+
+My interview script is a Google Form which allowed structure in reviewing the feedback I received to each question. The form itself is accessible below.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScWbKrKVDqOWSsyX0L4IJTHxHIEFyquYV4r39r4BTgIUkUm1Q/viewform?embedded=true" width="640" height="441" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 **4. Interview Findings**
+
+From the interviews, I received the [following feedback](https://docs.google.com/spreadsheets/d/1TF5Vdd2Z5u3QCpivBIbNvIBHHfGLx0VaAz0ssSvRSZ4/edit?usp=sharing).
 
 **5. Changes Implemented**
   
