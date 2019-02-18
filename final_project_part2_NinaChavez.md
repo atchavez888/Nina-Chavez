@@ -14,11 +14,12 @@
 4. Interview Findings
 
 5. Changes Implemented 
-  *Issue A:
   
-  *Issue B:
+  * Issue A:
   
-  *Issue C:
+  * Issue B:
+  
+  * Issue C:
   
 **WIREFRAMES**  
 [Shorthand](www.asdlfjasdl;kfjasld;kfcom)
