@@ -14,7 +14,7 @@
 
 **2. Approach to identifying representative individuals to interview**
 
->To select individuals to interview and review the progress of my sketches and wirefream, I wanted to have a pool of candidates connected in one or another to education or public policy as well as individuals not directly working or studying those subjects. I selected two current educators, a former educator now working in marketing and development for a national charter school, peers in the PPM and MAM programs and 
+>To select individuals to interview and review the progress of my sketches and wirefream, I wanted to have a pool of candidates connected in one or another to education or public policy as well as individuals not directly working or studying those subjects. I selected two current educators, a former educator now working in marketing and development for a national charter school, peers in the graduate school PPM and MAM programs and an undergraduate at Pitt studying cyber security.
 
 **3. Interview Script**
 [](final_project_interviewscript.)
