@@ -43,3 +43,7 @@ Other data sources will include financial statements from [2014-2016](https://te
 **Wireframe:** I will explore designs via Tableau, Rawgraph, and Infogram; share my visuals with peers in the class as well as my former Teach for America peers to seek feedback; and write personal reflections on the visuals. This will probably be a large investment of time.
 
 **Final Presentation:** The intitial plan is to use Infogram or Shorthand for the final presentation.
+
+[Homepage](https://atchavez888.github.io/Nina-Chavez/)
+
+[Final Project, Part 2: Sketches, Wireframes
