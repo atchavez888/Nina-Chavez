@@ -7,23 +7,26 @@
 
 **1. Target Audience**
 
-The target audience for this presentation will be the Teach for All Board of Directors and Global Ambassadors as they plan the next 10-year strategic plan for the organization. They lead the decision making process of the organization, have the clout and relationships to embolden and build bridges that will begin the larger relationship of building the new national chapters of Teach for All across the world. They led the decisions in selecting and developing the current 46 chapters Teach for All and will continue that mission with this presentation. 
+>The target audience for this presentation will be the Teach for All Board of Directors and Global Ambassadors as they plan the next 10-year strategic plan for the organization. They lead the decision making process of the organization, have the clout and relationships to embolden and build bridges that will begin the larger relationship of building the new national chapters of Teach for All across the world. They led the decisions in selecting and developing the current 46 chapters Teach for All and will continue that mission with this presentation. 
 
 >![](Teach for All Board.png)
 >![](Teach for All Global Ambassadors.png)
 
 **2. Approach to identifying representative individuals to interview**
 
+>To select individuals to interview and review the progress of my sketches and wirefream, I wanted to have a pool of candidates connected in one or another to education or public policy as well as individuals not directly working or studying those subjects. I selected two current educators, a former educator now working in marketing and development for a national charter school, peers in the PPM and MAM programs and 
+
 **3. Interview Script**
-[](final_project_interviewscript)
+[](final_project_interviewscript.)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScWbKrKVDqOWSsyX0L4IJTHxHIEFyquYV4r39r4BTgIUkUm1Q/viewform?embedded=true" width="640" height="441" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 **4. Interview Findings**
 
 **5. Changes Implemented**
   
-  * Issue A:
+  * Issue A: **NEED**
   
-  * Issue B:
+  * Issue B: 
   
   * Issue C:
   
