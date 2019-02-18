@@ -46,4 +46,4 @@ Other data sources will include financial statements from [2014-2016](https://te
 
 [Homepage](https://atchavez888.github.io/Nina-Chavez/)
 
-[Final Project, Part 2: Sketches, Wireframes
+[Final Project, Part 2: Sketches, Wireframes](final_project_part2_NinaChavez)
