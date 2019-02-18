@@ -1,4 +1,4 @@
-# Final Project, Part II: Sketches, wireframes, storyboards and moodbards
+# Final Project, Part II: Sketches, Wireframes, Storyboards
 
 **SKETCHES & STORYBOARDS**
 
