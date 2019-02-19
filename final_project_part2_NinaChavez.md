@@ -48,7 +48,6 @@ For this map, I realized that many viewers wanted to know the names of the count
   
 >* **Positive Impacts of TFA as of 2019:**
 I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
-
   * **RESPONSES INCLUDED:** 
     * "School attendance rates over time since joining"
     * "Numbers of schools involved or touched by Teach for All"
@@ -56,7 +55,6 @@ I needed a lot of help designing this cluster of infographics. Overall, though, 
   
 >* **Disparities**:
 I needed some help with this cluster of infographics but not so much because I was more comfortable extracting some data from the sets I currently have. Viewers did understand the goals I had. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
-   
   * **RESPONSES INCLUDED:**  
     * "Improve title"
     * "For location, include a map."
@@ -65,7 +63,6 @@ I needed some help with this cluster of infographics but not so much because I w
   
 >* **Scatterplot**
 There was strong clarity in understanding this visual and positive responses overall. I will overlay a map to correspond with the dots. I also would like to figure out how to make the map and scatterplot interactive so as a viewer reviews it, they can gain additional information such as the country's name and maybe the current population that should be in school for a specific age range. I should improve the title - perhaps something along the lines of "Looking Forward, Potential Partners 2020-2030"
-    
   * **RESPONSES INCLUDED**
     * "Clarify Y-axis"
     * "Color-code will be key."
