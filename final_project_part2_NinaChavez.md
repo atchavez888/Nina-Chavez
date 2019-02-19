@@ -49,12 +49,10 @@ From the interviews, I received the [following feedback](https://docs.google.com
   
 >* **Positive Impacts of TFA as of 2019:**
     * I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
-  
-**RESPONSES INCLUDED:**
- 
-* "School attendance rates over time since joining"
-     * "Numbers of schools involved or touched by Teach for All"
-     * "I think a graphic showing an increasing number of children completing high school or its equivalent abroad would be helpful or maybe a graphic showing the increase in country GDP since TFAll started an operation in that country. It could show the impact education has on the economy of the country."
+**RESPONSES INCLUDED:** 
+  * "School attendance rates over time since joining"
+  * "Numbers of schools involved or touched by Teach for All"
+  * "I think a graphic showing an increasing number of children completing high school or its equivalent abroad would be helpful or maybe a graphic showing the increase in country GDP since TFAll started an operation in that country. It could show the impact education has on the economy of the country."
   
 >* **Disparities**:
    * I needed some help with this cluster of infographics but not so much because I was more comfortable extracting some data from the sets I currently have. Viewers did understand the goals I had. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
