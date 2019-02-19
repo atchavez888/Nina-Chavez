@@ -72,5 +72,11 @@ There was strong clarity in understanding this visual and positive responses ove
 
 <div class="infogram-embed" data-id="4c482b38-c962-4a27-b748-7c08604e904b" data-type="interactive" data-title="Teach for All  Network Partners"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4c482b38-c962-4a27-b748-7c08604e904b" style="color:#989898!important;text-decoration:none!important;" target="_blank">Teach for All  Network Partners</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
+  * Positive Teach for All Data Wireframes will be delayed
+  * Current Global Education Accessibility and Disparities Wireframes will be delayed
+  
+  ![](datafinal_scatterplot2.PNG)
+  This is a very general wireframe of how the scatterplot will come to life. It is more an emphasis on four quadrants and a clearer Y-axis for the final design. **This was made in Infogram. Is there somewhere else I should be making this scatterplot that allows for interactive data when the cursor comes across a dot AND allows for the quadrant design. 
+
 ## **MOODBOARD**
 ![](Moodboard.PNG)
