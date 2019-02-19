@@ -52,8 +52,8 @@ From the interviews, I received the [following feedback](https://docs.google.com
     * I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week.
   
 **RESPONSES INCLUDED:**
-  
-  <  * "School attendance rates over time since joining"
+ 
+>* "School attendance rates over time since joining"
      * "Numbers of schools involved or touched by Teach for All"
      * "I think a graphic showing an increasing number of children completing high school or its equivalent abroad would be helpful or maybe a graphic showing the increase in country GDP since TFAll started an operation in that country. It could show the impact education has on the economy of the country."
   
@@ -62,7 +62,7 @@ From the interviews, I received the [following feedback](https://docs.google.com
    
 **RESPONSES INCLUDED:**  
 
-<  * "Improve title"
+>  * "Improve title"
    * "For location, include a map."
    * "Develop this idea that actually integrates the disparities. They seem very disconnected especially for someone not familiar."
    * "Pictograms"
@@ -73,7 +73,7 @@ From the interviews, I received the [following feedback](https://docs.google.com
     
 **RESPONSES INCLUDED**
 
-<  * "Clarify Y-axis"
+>  * "Clarify Y-axis"
    * "Color-code will be key."
    * "This will be a strong visual, so clarity overall will be very necessary."
   
