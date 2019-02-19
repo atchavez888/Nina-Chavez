@@ -1,6 +1,6 @@
 # Final Project, Part II: Sketches, Wireframes, Storyboards
 
-**SKETCHES & STORYBOARDS**
+## **SKETCHES & STORYBOARDS**
 ![](DataFinal_Storyboard1.jpg)
 
 ![](DataFinal_Map1.jpg)
@@ -13,7 +13,7 @@ I also struggled to sketch out the core infographics to paint a realistic pictur
 
 ![](DataFinal_Scatterplot1.jpg)
 
-**USER RESEARCH PROTOCOL**
+## **USER RESEARCH PROTOCOL**
 
 **1. Target Audience**
 
@@ -46,7 +46,7 @@ From the interviews, I received the [following feedback](https://docs.google.com
   
   * Issue C:
   
-**WIREFRAMES**  
+## **WIREFRAMES**  
 [Shorthand](www.asdlfjasdl;kfjasld;kfcom)
 
-**MOODBOARD**
+## **MOODBOARD**
