@@ -75,8 +75,9 @@ There was strong clarity in understanding this visual and positive responses ove
   * Positive Teach for All Data Wireframes will be delayed
   * Current Global Education Accessibility and Disparities Wireframes will be delayed
   
-  ![](datafinal_scatterplot2.PNG)
-  This is a very general wireframe of how the scatterplot will come to life. It is more an emphasis on four quadrants and a clearer Y-axis for the final design. **This was made in Infogram. Is there somewhere else I should be making this scatterplot that allows for interactive data when the cursor comes across a dot AND allows for the quadrant design.** Also, this visual isn't suppose to have the highest funding in the top right quadrant. I need to find a better Y-axis to compare against the literacy percentages I have on the X-axis.
+![](datafinal_scatterplot2.PNG)
+  
+This is a very general wireframe of how the scatterplot will come to life. It is more an emphasis on four quadrants and a clearer Y-axis for the final design. **This was made in Infogram. Is there somewhere else I should be making this scatterplot that allows for interactive data when the cursor comes across a dot AND allows for the quadrant design.** Also, this visual isn't suppose to have the highest funding in the top right quadrant. I need to find a better Y-axis to compare against the literacy percentages I have on the X-axis.
 
 ## **MOODBOARD**
 ![](Moodboard.PNG)
