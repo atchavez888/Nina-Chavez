@@ -9,6 +9,10 @@
 
 >The target audience for this presentation will be the Teach for All Board of Directors and Global Ambassadors as they plan the next 10-year strategic plan for the organization. They lead the decision making process of the organization, have the clout and relationships to embolden and build bridges that will begin the larger relationship of building the new national chapters of Teach for All across the world. They led the decisions in selecting and developing the current 46 chapters Teach for All and will continue that mission with this presentation. 
 
+  * **Board Stats:**
+     * Board Members: 18 (13 males, 5 females)
+     * Global Ambassadors: 2 (1 male, 1 female)
+
 >![](Teach for All Board.png)
 >![](Teach for All Global Ambassadors.png)
 
