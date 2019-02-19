@@ -56,4 +56,4 @@ From the interviews, I received the [following feedback](https://docs.google.com
 ![](datafinal_map2.PNG)
 
 ## **MOODBOARD**
-![](Moodboard.png)
+![](Moodboard.PNG)
