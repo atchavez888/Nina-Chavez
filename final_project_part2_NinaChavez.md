@@ -40,40 +40,40 @@ From the interviews, I received the [following feedback](https://docs.google.com
 
 **5. Changes Implemented**
   
-  * **Storyboard**
+>* **Storyboard**
     * Clear. Overall received accurate responses to the storyboard.
   
-  * **Current Teach for All Network: Clarity** 
+>* **Current Teach for All Network: Clarity** 
     * For this map, I realized that many viewers wanted to know the names of the countries already a part of the network. They also suggested improving the title to include something such as "as of 2019." 
     
     * I originally began Wireframing in Datawrapper but found that Infogram's setup for mapping allowed me to add in an interactive means to display: each country's name, year the partnership was established and the actual name of the chapter. That should clarify a bit more historical and name recognition for the audience especially if they interact with my Shorthand website for the final.
   
-  * **Positive Impacts of TFA as of 2019:**
+>* **Positive Impacts of TFA as of 2019:**
     * I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week.
   
 **RESPONSES INCLUDED:**
  
->* "School attendance rates over time since joining"
+* "School attendance rates over time since joining"
      * "Numbers of schools involved or touched by Teach for All"
      * "I think a graphic showing an increasing number of children completing high school or its equivalent abroad would be helpful or maybe a graphic showing the increase in country GDP since TFAll started an operation in that country. It could show the impact education has on the economy of the country."
   
-  * **Disparities**:
+>* **Disparities**:
    * I needed some help with this cluster of infographics but not so much because I was more comfortable extracting some data from the sets I currently have. Viewers did understand the goals I had. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week.
    
 **RESPONSES INCLUDED:**  
 
->  * "Improve title"
+   * "Improve title"
    * "For location, include a map."
    * "Develop this idea that actually integrates the disparities. They seem very disconnected especially for someone not familiar."
    * "Pictograms"
   
-  * **Scatterplot**
+>* **Scatterplot**
     * There was strong clarity in understanding this visual and positive responses overall.
     * I will overlay a map to correspond with the dots. I also would like to figure out how to make the map and scatterplot interactive so as a viewer reviews it, they can gain additional information such as the country's name and maybe the current population that should be in school for a specific age range. I should improve the title - perhaps something along the lines of "Looking Forward, Potential Partners 2020-2030"
     
 **RESPONSES INCLUDED**
 
->  * "Clarify Y-axis"
+   * "Clarify Y-axis"
    * "Color-code will be key."
    * "This will be a strong visual, so clarity overall will be very necessary."
   
