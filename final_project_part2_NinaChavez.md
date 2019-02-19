@@ -40,22 +40,19 @@ From the interviews, I received the [following feedback](https://docs.google.com
 
 **5. Changes Implemented**
   
-<**Current Teach for All Map: Clarity** 
-For this map, I realized that many viewers wanted to know the names of the countries already a part of the network. They also suggested improving the title to include something such as "as of 2019." How can I 
+  * **Current Teach for All Map: Clarity** 
+    * For this map, I realized that many viewers wanted to know the names of the countries already a part of the network. They also suggested improving the title to include something such as "as of 2019." How can I 
   
-<**Positive Impacts of TFA as of 2019:**
-
+  * <**Positive Impacts of TFA as of 2019:**
   
-<**Disparities**:
-
-
-<**Scatterplot**
-I will overlay a map to correspond with the dots. I also would like to figure out how to make the map and scatterplot interactive so as a viewer reviews it, they can gain additional information such as the country's name and maybe the current population that should be in school for a specific age range.
+  * <**Disparities**:
+  
+  * <**Scatterplot**
+    * I will overlay a map to correspond with the dots. I also would like to figure out how to make the map and scatterplot interactive so as a viewer reviews it, they can gain additional information such as the country's name and maybe the current population that should be in school for a specific age range.
+  
+  * Common feedback focused on the title. Perhaps something along the lines of "Looking Forward, Potential Partners 2020-2030"
   
 ## **WIREFRAMES**  
-[Shorthand](www.asdlfjasdl;kfjasld;kfcom)
 ![](datafinal_map2.PNG)
-
-
 
 ## **MOODBOARD**
