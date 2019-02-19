@@ -45,7 +45,6 @@ From the interviews, I received the [following feedback](https://docs.google.com
   
 >* **Current Teach for All Network: Clarity** 
     * For this map, I realized that many viewers wanted to know the names of the countries already a part of the network. They also suggested improving the title to include something such as "as of 2019." 
-    
     * I originally began Wireframing in Datawrapper but found that Infogram's setup for mapping allowed me to add in an interactive means to display: each country's name, year the partnership was established and the actual name of the chapter. That should clarify a bit more historical and name recognition for the audience especially if they interact with my Shorthand website for the final.
   
 >* **Positive Impacts of TFA as of 2019:**
