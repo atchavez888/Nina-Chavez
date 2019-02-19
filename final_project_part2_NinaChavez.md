@@ -49,6 +49,7 @@ From the interviews, I received the [following feedback](https://docs.google.com
   
 >* **Positive Impacts of TFA as of 2019:**
     * I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
+
 **RESPONSES INCLUDED:** 
   * "School attendance rates over time since joining"
   * "Numbers of schools involved or touched by Teach for All"
