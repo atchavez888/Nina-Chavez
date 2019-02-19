@@ -1,7 +1,17 @@
 # Final Project, Part II: Sketches, Wireframes, Storyboards
 
 **SKETCHES & STORYBOARDS**
+![](DataFinal_Storyboard1.jpg)
 
+![](DataFinal_Map1.jpg)
+
+I struggled to sketch out what core infographics would be useful and clear to support the positive opening to the presentation. I received some useful tips for this point in the presentation from feedback. I'll be collecting more data and dig deepre into what I currently have from Teach for All and other sources to help with this issue. Before viewing the feedback I did manage to sketch out this:
+![](
+
+I also struggled to sketch out the core infographics to paint a realistic picture of the current global education gaps and inequities. I'll be exploring the data I have collected further along with the feedback received.
+![](DataFinal_Disparities1.jpg)
+
+![](DataFinal_Scatterplot1.jpg)
 
 **USER RESEARCH PROTOCOL**
 
