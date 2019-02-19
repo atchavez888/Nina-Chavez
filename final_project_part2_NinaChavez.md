@@ -49,7 +49,7 @@ From the interviews, I received the [following feedback](https://docs.google.com
     * I originally began Wireframing in Datawrapper but found that Infogram's setup for mapping allowed me to add in an interactive means to display: each country's name, year the partnership was established and the actual name of the chapter. That should clarify a bit more historical and name recognition for the audience especially if they interact with my Shorthand website for the final.
   
 >* **Positive Impacts of TFA as of 2019:**
-    * I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week.
+    * I needed a lot of help designing this cluster of infographics. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
   
 **RESPONSES INCLUDED:**
  
@@ -58,7 +58,7 @@ From the interviews, I received the [following feedback](https://docs.google.com
      * "I think a graphic showing an increasing number of children completing high school or its equivalent abroad would be helpful or maybe a graphic showing the increase in country GDP since TFAll started an operation in that country. It could show the impact education has on the economy of the country."
   
 >* **Disparities**:
-   * I needed some help with this cluster of infographics but not so much because I was more comfortable extracting some data from the sets I currently have. Viewers did understand the goals I had. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week.
+   * I needed some help with this cluster of infographics but not so much because I was more comfortable extracting some data from the sets I currently have. Viewers did understand the goals I had. Overall, though, it seems like I should sit down with Max, the TA, and flesh this out this week. I may also need to use InDesign or Illustrator. Will Infogram be helpful?
    
 **RESPONSES INCLUDED:**  
 
