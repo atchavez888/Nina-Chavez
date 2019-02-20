@@ -79,7 +79,7 @@ There was strong clarity in understanding this visual and positive responses ove
   
 <div class="infogram-embed" data-id="cab39bdb-738c-4458-b83e-03478fbf978f" data-type="interactive" data-title="Need vs. Accessibility"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
   
-This is a very general wireframe of how the scatterplot will come to life. It is more an emphasis on four quadrants and a clearer Y-axis for the final design. **This was made in Infogram. Is there somewhere else I should be making this scatterplot that allows for interactive data when the cursor comes across a dot AND allows for the quadrant design.** Also, this visual isn't suppose to have the highest funding in the top right quadrant. I need to find a better Y-axis to compare against the literacy percentages I have on the X-axis.
+This is a very general wireframe of how the scatterplot will come to life. It is more an emphasis on four quadrants and a clearer Y-axis for the final design. **This was made in Infogram. I plan to make minor edits using InDesign to improve clarity.** Also, this visual isn't suppose to have the highest funding in the top right quadrant. I need to find a better Y-axis to compare against the literacy percentages I have on the X-axis.
 
 ## **MOODBOARD**
 ![](Moodboard.PNG)
