@@ -25,23 +25,23 @@ This project was focused on providing current data on the status of internationa
   
   * [World Bank Education](): 
 
-## Approach to Project (method and medium, Part 1)
+## Approach to Project
 
 A few paragraphs summarizing your approach to the project (method and medium - Part I)
 
+???? Github capabilites, Infogram exclusively.
+
 ## Design and User Research
 
-**Sketches and Storyboards**
-
-## User research protocol and findings (Part II)
-
-**Wireframes** (Part II)
+**[Sketches and Storyboards](final_project_part2_NinaChavez.md)
 
 ## Final Data Story
 
 **Intendended Audience**
 
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
+The Teach for All Board of Directors and the two Global Ambassadors are meant to be the audience for this presentation and data. The Board is composed of CEOS, Global Affairs leaders at major universities, international government representatives, and directors of intergovernmental economics organizations such as Organisation for Economic Co-operation and Development who are all immersed in international education issues, initiatives, and cutting edge advancements. While the Global Ambassadors are on the younger side of the spectrum, the Board itself is composed of middle-aged and older/wiser leaders who have been involved in education and the international stage for decades. This group doesn't need a long introduction into the disparities of education inequity, so diving deep into the current state of the matters are key to moving the conversation along to the meat of the decision-making. They are familiar with almost all terminology and leaders in the data sources.
+
+To make this project work for for the audience, I made sure to present highly professional visuals with a lot of information in digestible designs.
 
 **Process and Design Decisions**
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
