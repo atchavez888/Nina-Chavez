@@ -1,11 +1,7 @@
 # The Project Outline
 
 ## Project Summary
-This project was focused on providing current data on the status of international education to the Board of Directors for Teach for All. The intent was to practice mocking up and researchin data that the Board might see at a board meeting to decide a strategic plan for the next ten years. I focused my data presentation on the urgency and importance of their work and the exploration of what educational data might matter when making the decision about which countries would rise to the attention of having the most need for a partnership with Teach for All. 
-
-**High level summary???**
-
-This project is meant to be apart of the Board's full scope of work and necessary data for the decision making process. This was a much larger focus than I realized at the beginning of the assignment weeks ago. 
+This project was focused on providing current data on the status of international education to the Board of Directors for Teach for All. The intent was to practice mocking up and researching data that the Board might see at a board meeting to decide a strategic plan for the next ten years. I focused my data presentation on the urgency and importance of their work and the exploration of what educational data might matter when making the decision about which countries would rise to the attention of having the most need for a partnership with Teach for All. This project is meant to be apart of the Board's full scope of work and necessary data for the decision making process. This was a much larger focus than I realized at the beginning of the assignment weeks ago. 
 
 ## Project Structure: 
 
