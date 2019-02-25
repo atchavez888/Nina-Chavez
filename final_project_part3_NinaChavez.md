@@ -3,7 +3,7 @@
 ## Project Summary
 This project was focused on providing current data on the status of international education to the Board of Directors for Teach for All. The intent was to practice mocking up and researching data that the Board might see at a board meeting to decide a strategic plan for the next ten years. I focused my data presentation on the urgency and importance of their work and the exploration of what educational data might matter when making the decision about which countries would rise to the attention of having the most need for a partnership with Teach for All. This project is meant to be apart of the Board's full scope of work and necessary data for the decision making process. This was a much larger focus than I realized at the beginning of the assignment weeks ago. 
 
-## Project Structure: 
+## Project Structure
 
 **_1. Teach for All's Partner Network:_** Presenting a general overview of the Partner Network allows me to showcase some of complexity of the work being done by this nonprofit and also visualize the impact it's making. It's a multidimensional organism with each partner in the network following a generally similar phasing of growth and an ongoing self-awareness of the individual needs of each country. While I don't dive into this necessarily, it's important that visualizing the structure of this particular component convey complexity and deep, intertwining connections to being involved in an issue as huge as international education issues.
 
@@ -15,13 +15,15 @@ This project was focused on providing current data on the status of internationa
 
 ## Data Sources 
 
-  * [UNESCO Institute of Statistics](
+  * [UNESCO Institute of Statistics](): This has been the most thorough source of information on the subject of individual country's educational data available to me.
   
-  * [UN Development Programme]():
+  * [UN Development Programme](): This is where I collected open-source data related to standardized international education exams. 
   
   * [UNICEF Organization Education](): 
   
-  * [UNESCO World Inequity Database of Education](https://www.education-inequalities.org/indicators/edu4#?sort=mean&dimension=sex&group=all&age_group=edu4_2024&countries=all): The data is accessible at the top near the main headline titled "export." This data was the basis of selecting this topic. The disparities here drive my exploration of what is holding children back from getting an equal education. I originally planned on only needing this data, but soon realized it was very difficult for me to manipulate considering its structure. I extrapolated various key points and sought direction from this full encomp
+  * [UNESCO World Inequity Database of Education](https://www.education-inequalities.org/indicators/edu4#?sort=mean&dimension=sex&group=all&age_group=edu4_2024&countries=all): The data is accessible at the top near the main headline titled "export." This data was the basis of selecting this topic. The disparities here drive my exploration of what is holding children back from getting an equal education. I originally planned on only needing this data, but soon realized it was very difficult for me to manipulate considering its structure. I extrapolated various key points and sought direction from this full encompassing data for each individual country. 
+  
+  * [World Bank Education](): 
 
 ## Approach to Project (method and medium, Part 1)
 
