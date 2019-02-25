@@ -44,10 +44,14 @@ The Teach for All Board of Directors and the two Global Ambassadors are meant to
 To make this project work for for the audience, I made sure to present highly professional visuals with a lot of information in digestible designs. Also, because of the knowledge "in the room," it was important to search on all platforms to show a breadth and depth of access to information. 
 
 **Process and Design Decisions**
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+The work accomplished over the last three weeks have been engrossed in **research** and atleast three redesigns in the progression of the story. I began with a general idea that I could calculate financial drive to the conversation and sculpt it be a "further along" part of the discussion that actually preps the Board for meetings or presentations with funders and potential funders. That quickly changed to focus more on the educational data aspect of the conversation which had much more data accessible. It was also in my scope of comfort and ability to speak thoroughly on a dimension of the strategic planning process. 
 
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+After going to the GCC at Hunt Library, the storyline changed to focus on a particular region of the world to help me reign in the story. We selected Sub-Saharan Africa. I worked on that angle for a week before accepting that I was still choosing a large topic that wasn't actually helping the story. If I stayed with Sub-Saharan Africa, I would have to pull out and remind everyone of the global mission rather than a region BUT MORE IMPORTANTLY Sub-Saharan Africa may have so many political and other variables involved in the relationships building to build a bridge to building a relationship. 
 
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.)Links to an external site..  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
+Instead, I decided to latch onto the idea of Teach for Portugal and explore the mission and work of Teach for All through the new partner since new partners are the topic of the whole 60-seconds and research. 
 
-Make sure to add / update any citations and / or other content that helps round out your data story. (Part III)
+As for the **design**, it developed from the simple three pieces as discussed in class to four because of discussions at GCC and then further reflection on data available within the timeframe. The design was still relatively easily designed because of the logical progression of storytelling. I simply changed the regional/national example.
+
+Shorthand is tough, and I got too comfortable working within Infogram and Github! I learned that Infogram is a stronger platform that Datawrapper for someone unfamiliar with coding. It allowed me to get farther with interactive components I wanted.
+
+## [Check out my project HERE!](https://atchavez888.github.io/Nina-Chavez/)
