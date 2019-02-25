@@ -1,6 +1,6 @@
 # The Project Outline (Part I)
 
-## Project Summar
+## Project Summary
 This project was focused on providing current data on the status of international education to the Board of Directors for Teach for All with the intent it would be a mock of what they might see at a board meeting to decide a strategic plan for the next ten years. I focused my data presentation on the exploration of what educational data might matter when making the decision about which countries would rise to the attention of having the most need for a partnership with Teach for All. 
 
 ## Project Structure (that outlines the major elements of your story)
