@@ -1,12 +1,25 @@
-# The project outline (Part I)
+# The Project Outline (Part I)
 
 ## Summary of your project
-This project was focused on providing current data on the status of international education to the Board of Directors for Teach for All with the intent it would be a mock of what they might see at a board meeting to decide a strategic plan for the next ten years. 
+This project was focused on providing current data on the status of international education to the Board of Directors for Teach for All with the intent it would be a mock of what they might see at a board meeting to decide a strategic plan for the next ten years. I focused my data presentation on the exploration of what educational data might matter when making the decision about which countries would rise to the attention of having the most need for a partnership with Teach for All. 
 
-**project structure** that outlines the major elements of your story
-A short paragraph that documents your data source(s), and an explanation of how you plan on using your data. (Part I)
+**Project Structure** that outlines the major elements of your story
+
+**_1. Teach for All's Partner Network:_** 
+
+**_2. Teach for Portugal:_** Presenting a dashboard appearance that provides a nutshell about one of the current partners was
+
+**_3. Data Sources_** an explanation of how you plan on using your data. (Part I)
+
+  * [UNESCO Institute of Statistics]():
+  
+  * [UN Development Programme]():
+  
+  
 A link to the publicly-accessible data you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. (Part I)
+
 A few paragraphs summarizing your approach to the project (method and medium - Part I)
+
 Design and user research
 
 # Sketches and storyboards (Part II)
