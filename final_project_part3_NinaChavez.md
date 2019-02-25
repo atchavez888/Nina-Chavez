@@ -14,17 +14,17 @@ This project is meant to be apart of the Board's full scope of work and necessar
 
 **_3. International Education Disparities_** This was the meat of my focus for most of this project. I held on to this as a means of pivoting from the excitement and powerful mission of TFA to the disparate truth behind the status of educational landscapes across the world. The disparities are so intertwined and destructive. I don't believe the Teach for All is the single answer to solving them by any means, but the work being done by Teach for All is an example of a stakeholder willing to also be a part of the solution. Teach for All's focus is making a difference by starting within the classroom through the relationship and leadership role of the teacher with the student, the school, the community, and beyond. These disparities cannot be solved by a teacher alone, but the quality of the education no matter what surrounds a child does depend on the educational environment and support created by the teachers that lead the way.
 
-**_4. A Variety of Educational Statistics_** This is where I wanted to bring logic in and the decision making process to take over. The story so far has been 
+**_4. A Variety of Educational Statistics_** This is where I wanted the decision-making process to take over. The story now takes us to the action which is to get a taste of what is taken into consideration when selecting and moving forward in the expansion of the Partner Netowrk. My statistics focus on a variety of educational touch points to consider but a deeper, multi-dimensional dive than that is required such as the consideration of political climates and willingness of countries to partner and invest in what it will take.
 
-## Data Sources (an explanation of how you plan on using your data, Part I)
+## Data Sources 
 
-  * [UNESCO Institute of Statistics]():
+  * [UNESCO Institute of Statistics](
   
   * [UN Development Programme]():
   
   * [UNICEF Organization Education](): 
   
-A link to the publicly-accessible data you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. (Part I)
+  * [UNESCO World Inequity Database of Education](https://www.education-inequalities.org/indicators/edu4#?sort=mean&dimension=sex&group=all&age_group=edu4_2024&countries=all): The data is accessible at the top near the main headline titled "export." This data was the basis of selecting this topic. The disparities here drive my exploration of what is holding children back from getting an equal education. I originally planned on only needing this data, but soon realized it was very difficult for me to manipulate considering its structure. I extrapolated various key points and sought direction from this full encomp
 
 ## Approach to Project (method and medium, Part 1)
 
