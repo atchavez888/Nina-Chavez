@@ -22,3 +22,5 @@ I love how data enhances communication. It can further clarify, reveal outliers 
   * [Final Project, Part 2: Sketches, Wireframe, Storyboard](final_project_part2_NinaChavez.md)
 
   * [Final Project, Part 3: Executive Summary & Reflection](final_project_part3_NinaChavez.md)
+  
+  * [Final Project, Part 4: Shorthand]()
