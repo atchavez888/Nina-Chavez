@@ -13,8 +13,8 @@ My current internship is with the Greater Pittsburgh Arts Council reviewing surv
 I love how data enhances communication. It can further clarify, reveal outliers or unexpected results, and bring patterns to the surface. Data also can be confusing, overwhelming, and a bit hard to filter through whether working with it or being presented with overly manipulated conclusions. When data and the arts intersect they can enhance experiences and the design and creation of further experiences. Through this class, I hope to become better at visualizing data to communicate with all stakeholders. I want to be able to create high quality data visuals to support my work. Also, I want to be able to more efficiently challenge data presented to me.
 
 # Portfolio
-  * [Assignment 1: OECD data visualization #1](Assignment1.md)
-  * [Assignment 3 & 4: Critique by Design]()
+  * [OECD Data Visualization](Assignment1.md)
+  * [Critique by Design]()
   
 _Step 4: Test the Solution_
 ![](IMG_7967.jpg)
