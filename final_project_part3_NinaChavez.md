@@ -55,4 +55,6 @@ As for the **design**, it developed from the simple three pieces as discussed in
 
 Shorthand is tough, and I got too comfortable working within Infogram and Github! I learned that Infogram is a stronger platform that Datawrapper for someone unfamiliar with coding. It allowed me to get farther with interactive components I wanted.
 
-## [Check out my project HERE!](https://atchavez888.github.io/Nina-Chavez/)
+## [Check out my GITHUB HERE!](https://atchavez888.github.io/Nina-Chavez/)
+
+## [Check out my Shorthand HERE!]()
