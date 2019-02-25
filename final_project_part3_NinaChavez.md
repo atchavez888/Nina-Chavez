@@ -33,7 +33,7 @@ A few paragraphs summarizing your approach to the project (method and medium - P
 
 ## Design and User Research
 
-**[Sketches and Storyboards]**(final_project_part2_NinaChavez.md)
+[Sketches and Storyboards](final_project_part2_NinaChavez.md)
 
 ## Final Data Story
 
