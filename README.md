@@ -61,3 +61,5 @@ The wireframe was relatively easy to design because I knew what part of the data
 [Final Project, Part 1: Project Outline](final_project_NinaChavez.md)
 
 [Final Project, Part 2: Sketches, Wireframe, Storyboard](final_project_part2_NinaChavez.md)
+
+[Final Project, Part 3: Executive Summary & Reflection](final_project_part3_NinaChavez.md)
