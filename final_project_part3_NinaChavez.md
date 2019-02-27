@@ -15,21 +15,25 @@ This project was focused on providing current data on the status of internationa
 
 ## Data Sources 
 
-  * [UNESCO Institute of Statistics](): This has been the most thorough source of information on the subject of individual country's educational data available to me.
+  * [UNESCO Institute of Statistics](): This has been the most thorough source of information on the subject of individual country's educational data available to me. It was everything from digesting how singular or multiple disparaties compare  along a variety of educational points. This has been an enormous undertaking by the UN in their own pursuit to of "Education 2030." The focus here was an older education - 20-24 years of age - but it also correlates to the historical education periods offered to that same population when they were in primary, lower secondary, secondary, and tertiary. This was the source of the idea for this project. 
   
-  * [UN Development Programme](): This is where I collected open-source data related to standardized international education exams. 
+  * [UN Development Programme](): This is where I collected open-source data related to the Human Development Index. I focused results on understanding the history of education across countries because it would express historical timelines that parallel historical moments in country's progress such as wars, famines, and other political and social unstabalizing events while showing that those are immediated crises that directly affect the quality of education offered to citizens. Each country can be viewed individually for further details or all 195 countries can be categorized along the index.
   
-  * [UNICEF Organization Education](): 
+  * [UNICEF Organization Education](https://data.unicef.org/resources/resource-type/datasets/): This was an amazing resource to dive deep into the topic of the interconnected disparities that effect the access to equitable education across the world. I ultimately had to use it as a research resource rather than incorporate much of the information into the final presentation due to the time restraints and overall digestible visuals for the sake of the project.
   
   * [UNESCO World Inequity Database of Education](https://www.education-inequalities.org/indicators/edu4#?sort=mean&dimension=sex&group=all&age_group=edu4_2024&countries=all): The data is accessible at the top near the main headline titled "export." This data was the basis of selecting this topic. The disparities here drive my exploration of what is holding children back from getting an equal education. I originally planned on only needing this data, but soon realized it was very difficult for me to manipulate considering its structure. I extrapolated various key points and sought direction from this full encompassing data for each individual country. 
   
-  * [World Bank Education](): 
+  * [World Bank Education](https://data.worldbank.org/topic/education): It proved to have more accessible data files to utilize and understand the complexity of that status of international education. Ultimately, it all became informative to the depth of knowledge to support the cause of Teach for All, but I chose not to present them in my final 60 second presentation due to the time restraint. ): 
+  
+  * [Teach for All](www.teachforall.org): The open source data from here was the timeline of partners and the total number of partners. This wasn't the most difficult data because it was simple to deconstruct, but it made the case that we absolutely need to move faster by growing the capacity of the organization.
 
 ## Approach to Project
 
-A few paragraphs summarizing your approach to the project (method and medium - Part I)
+**Drafting:** This is my favorite part, so I will be doing a moodboard and sketching a variety of possible data visualizations. Visuals can be created for each country, each region, each continent, and the world. An animated visual showing the growth history of Teach for All could be helpful in the introduction. This did help me remember that a color scheme and a varety of visuals will help, but as I continued to research.
 
-???? Github capabilites, Infogram exclusively.
+**Wireframe:**  I strictly used Infogram to create my visuals due to the visual appeal and simplicty capable immediately within the website. I continued to foster feedback for two weeks for  my visuals. Peers not the class, current educators as well as my former Teach for America peers critiqued the visuals. They originally left me extremely helpful feedback in phase II which helped push me to see the major gaps. Ultimately wireframes took the longest amount of time due to ongoing edits and changes in the arc of my story. All final wireframes are found on [my Github Wireframes page](final_project_part2_NinaChavez.md).
+
+**Final Presentation:**  [Shorthand](https://preview.shorthand.com/j0riLBFk5MKzHEw7) is the platform my presentation is set on.
 
 ## Design and User Research
 
